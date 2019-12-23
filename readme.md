@@ -14,4 +14,4 @@
 
 仓库地址： https://github.com/starnote/starnote.github.io
 
-将仓库中的“index.html” 和 “static” 下载到本地，放进Apache 或 Nginx的根目录即可，http://localhost
+将仓库中的“index.html” 和 “css”等文件下载到本地，放进Apache 或 Nginx的根目录即可，http://localhost
