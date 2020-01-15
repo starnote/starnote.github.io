@@ -1,6 +1,6 @@
 # 关于星空笔记
 
-![星空笔记](./img/starnote.jpg)
+![星空笔记](https://www.steemjiang.com:8081/ipfs/Qmf1KNVAxc3oEmYTWnu2NrCKCkhs6xVkCbuRsd2F8Asmbq)
 
 
 星空笔记，基于Steem和IPFS的区块链笔记，@lemooljiang创建。数据存储在Steem区块链上，图片存在IPFS网络中，前端则使用IndexedDB数据库，几者相结合，有着神奇的效果！
